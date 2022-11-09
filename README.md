@@ -26,9 +26,9 @@ setState() berguna untuk memberi pemberitahuan kepada flutter bahwa telah terjad
 Const tidak dapat digunakan untuk variabel yang valuenya diperoleh saat runtime contohnya adalah DateTime.now() sehingga untuk kasus ini harus menggunakan final. Const digunakan ketika value yang disimpan sudah diketahui pada waktu compile seperti misalnya (const a = 1).
 
 5. Jelaskan bagaimana cara kamu mengimplementasikan checklist di atas.
-  1. Membuat flutter app counter_7 
-  2. Membuat fungsi baru untuk decrement
-  3. Membuat if-else untuk menampilkan teks ketika teks yang ditampilkan GENAP/GANJIL
-  4. Membuat floating action button dengan memanfaatkan widget padding
-  5. Mengamplikasikan floating action button pada widget visibility untuk melakukan hide/show dari tombol decrement
+- Membuat flutter app counter_7 
+- Membuat fungsi baru untuk decrement
+- Membuat if-else untuk menampilkan teks ketika teks yang ditampilkan GENAP/GANJIL
+- Membuat floating action button dengan memanfaatkan widget padding
+- Mengamplikasikan floating action button pada widget visibility untuk melakukan hide/show dari tombol decrement
 
